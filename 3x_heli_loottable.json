@@ -1,0 +1,699 @@
+{
+  "loot_simple": {},
+  "loot_advanced": {
+    "heli_crate": {
+      "LootSpawnSlots": [
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 20.0,
+                      "Shortname": "explosives",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 5.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NTE5PC9YPg0KICA8WT4yODY4NzwvWT4NCiAgPEl0ZW1YPjg0MjwvSXRlbVg+DQogIDxJdGVtWT4yODYzOTwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 4,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 5.0,
+                      "Shortname": "explosive.timed",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 3.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NTEwPC9YPg0KICA8WT4yODYxNDwvWT4NCiAgPEl0ZW1YPjg0MDwvSXRlbVg+DQogIDxJdGVtWT4yODU0MDwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 2,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 10.0,
+                      "Shortname": "techparts",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NDk2PC9YPg0KICA8WT4yODU0MTwvWT4NCiAgPEl0ZW1YPjg0MzwvSXRlbVg+DQogIDxJdGVtWT4yODQzNzwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 6,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MjU0PC9YPg0KICA8WT4yODY4NDwvWT4NCiAgPEl0ZW1YPjA8L0l0ZW1YPg0KICA8SXRlbVk+MDwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+          },
+          "NumberToSpawn": 3,
+          "Probability": 0.4
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 10.0,
+                      "Shortname": "ammo.rocket.basic",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTYxMzwvWD4NCiAgPFk+Mjk4MzA8L1k+DQogIDxJdGVtWD4xOTU3PC9JdGVtWD4NCiAgPEl0ZW1ZPjI5ODA0PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 2,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 10.0,
+                      "Shortname": "ammo.rocket.fire",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTYwMzwvWD4NCiAgPFk+Mjk3MzY8L1k+DQogIDxJdGVtWD4xOTUyPC9JdGVtWD4NCiAgPEl0ZW1ZPjI5Njk3PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 3,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 10.0,
+                      "Shortname": "ammo.rocket.hv",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTYwMDwvWD4NCiAgPFk+Mjk2MzM8L1k+DQogIDxJdGVtWD4xOTYyPC9JdGVtWD4NCiAgPEl0ZW1ZPjI5NTgyPC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 3,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTI1NzwvWD4NCiAgPFk+Mjk4MDY8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 2,
+          "Probability": 0.33
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "metal.plate.torso",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NDAxPC9YPg0KICA8WT4yOTM1NjwvWT4NCiAgPEl0ZW1YPjcyMjwvSXRlbVg+DQogIDxJdGVtWT4yOTMyODwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 1,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "metal.facemask",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NDAwPC9YPg0KICA8WT4yOTI3NzwvWT4NCiAgPEl0ZW1YPjcxMzwvSXRlbVg+DQogIDxJdGVtWT4yOTIyMjwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 2,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUwPC9YPg0KICA8WT4yOTI1OTwvWT4NCiAgPEl0ZW1YPjA8L0l0ZW1YPg0KICA8SXRlbVk+MDwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+          },
+          "NumberToSpawn": 2,
+          "Probability": 0.25
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rifle.bolt",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTMyNDwvWD4NCiAgPFk+MjkyODM8L1k+DQogIDxJdGVtWD4xNjY1PC9JdGVtWD4NCiAgPEl0ZW1ZPjI5MjQ5PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 3,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rifle.m39",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTMyNTwvWD4NCiAgPFk+MjkzNTk8L1k+DQogIDxJdGVtWD4xNjY3PC9JdGVtWD4NCiAgPEl0ZW1ZPjI5MzQ2PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 2,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rifle.l96",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTMxOTwvWD4NCiAgPFk+Mjk0NDA8L1k+DQogIDxJdGVtWD4xNjY4PC9JdGVtWD4NCiAgPEl0ZW1ZPjI5NDQ2PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTA1NzwvWD4NCiAgPFk+MjkzODM8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 2,
+          "Probability": 0.33
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rifle.ak",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NDY5PC9YPg0KICA8WT4yOTAzMTwvWT4NCiAgPEl0ZW1YPjgyNjwvSXRlbVg+DQogIDxJdGVtWT4yOTAyMzwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 2,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rifle.lr300",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NDY4PC9YPg0KICA8WT4yODk2ODwvWT4NCiAgPEl0ZW1YPjgyODwvSXRlbVg+DQogIDxJdGVtWT4yODkyMTwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+                },
+                "Weight": 1,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MjAwPC9YPg0KICA8WT4yOTAxMjwvWT4NCiAgPEl0ZW1YPjA8L0l0ZW1YPg0KICA8SXRlbVk+MDwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+          },
+          "NumberToSpawn": 2,
+          "Probability": 0.4
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "lmg.m249",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUxNjwvWD4NCiAgPFk+MjkwNTA8L1k+DQogIDxJdGVtWD4xODYwPC9JdGVtWD4NCiAgPEl0ZW1ZPjI5MDE3PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "hmlmg",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUxMTwvWD4NCiAgPFk+MjkxMTU8L1k+DQogIDxJdGVtWD4xODYxPC9JdGVtWD4NCiAgPEl0ZW1ZPjI5MTE0PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 2,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTIxODwvWD4NCiAgPFk+MjkwNjI8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 1,
+          "Probability": 0.33
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 3.0,
+                      "Shortname": "supply.signal",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUzOTwvWD4NCiAgPFk+Mjg4NjA8L1k+DQogIDxJdGVtWD4xODY5PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4ODYwPC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 10,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "supply.signal",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 3284873942,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUzOTwvWD4NCiAgPFk+Mjg3NzA8L1k+DQogIDxJdGVtWD4xODY5PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4NzcwPC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "supply.signal",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 3284878734,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUzOTwvWD4NCiAgPFk+Mjg2ODA8L1k+DQogIDxJdGVtWD4xODY5PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4NjgwPC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "supply.signal",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 3284879116,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUzOTwvWD4NCiAgPFk+Mjg1OTA8L1k+DQogIDxJdGVtWD4xODY5PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4NTkwPC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTI1NTwvWD4NCiAgPFk+Mjg4MjQ8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 1,
+          "Probability": 0.1
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "autoturret",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTU0MDwvWD4NCiAgPFk+MjgzMjY8L1k+DQogIDxJdGVtWD4xODc5PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4MjY5PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "targeting.computer",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTUzOTwvWD4NCiAgPFk+MjgzOTA8L1k+DQogIDxJdGVtWD4xODc3PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4MzY2PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 2,
+                "Node": ""
+              },
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "cctv.camera",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTU0MDwvWD4NCiAgPFk+Mjg0NTY8L1k+DQogIDxJdGVtWD4xODc2PC9JdGVtWD4NCiAgPEl0ZW1ZPjI4NDY2PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 2,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MTI1MjwvWD4NCiAgPFk+MjgzODk8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 2,
+          "Probability": 0.33
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "rocket.launcher",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MjM2MzwvWD4NCiAgPFk+MjkzNjc8L1k+DQogIDxJdGVtWD4yNjc3PC9JdGVtWD4NCiAgPEl0ZW1ZPjI5MzQ0PC9JdGVtWT4NCiAgPE5vZGVOYW1lIC8+DQogIDxJdGVtTm9kZU5hbWUgLz4NCjwvRWRpdG9yTm9kZT4="
+                },
+                "Weight": 1,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+MjEyNDwvWD4NCiAgPFk+MjkzNjc8L1k+DQogIDxJdGVtWD4wPC9JdGVtWD4NCiAgPEl0ZW1ZPjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+          },
+          "NumberToSpawn": 1,
+          "Probability": 0.33
+        },
+        {
+          "LootDefinition": {
+            "Items": [],
+            "SubSpawn": [
+              {
+                "Category": {
+                  "Items": [
+                    {
+                      "MaxAmount": 1.0,
+                      "Shortname": "pistol.m92",
+                      "BlueprintChance": 0.0,
+                      "MinAmount": 1.0,
+                      "ItemName": "",
+                      "SkinID": 0,
+                      "DontMultiply": false,
+                      "Condition": {
+                        "MinCondition": 1.0,
+                        "MaxCondition": 1.0
+                      }
+                    }
+                  ],
+                  "SubSpawn": [],
+                  "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+ODU4PC9YPg0KICA8WT4yOTkxNDwvWT4NCiAgPEl0ZW1YPjExODU8L0l0ZW1YPg0KICA8SXRlbVk+Mjk5MjA8L0l0ZW1ZPg0KICA8Tm9kZU5hbWUgLz4NCiAgPEl0ZW1Ob2RlTmFtZSAvPg0KPC9FZGl0b3JOb2RlPg=="
+                },
+                "Weight": 1,
+                "Node": ""
+              }
+            ],
+            "Node": "PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RWRpdG9yTm9kZSB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4NCiAgPFg+NjEzPC9YPg0KICA8WT4yOTkxNjwvWT4NCiAgPEl0ZW1YPjA8L0l0ZW1YPg0KICA8SXRlbVk+MDwvSXRlbVk+DQogIDxOb2RlTmFtZSAvPg0KICA8SXRlbU5vZGVOYW1lIC8+DQo8L0VkaXRvck5vZGU+"
+          },
+          "NumberToSpawn": 1,
+          "Probability": 0.5
+        },
+        {
+          "LootDefinition": {
+            "Items": [
+              {
+                "MaxAmount": 1.0,
+                "Shortname": "shotgun.m4",
+                "BlueprintChance": 0.0,
+                "MinAmount": 1.0,
+                "ItemName": "",
+                "SkinID": 0,
+                "DontMultiply": false,
+                "Condition": {
+                  "MinCondition": 1.0,
+                  "MaxCondition": 1.0
+                }
+              }
+            ],
+            "SubSpawn": [],
+            "Node": ""
+          },
+          "NumberToSpawn": 1,
+          "Probability": 0.009375
+        }
+      ],
+      "MaximumItems": -1,
+      "DestroyOnEmpty": true,
+      "ShouldRefreshContents": false,
+      "IsItemLoot": false,
+      "MinSecondsBetweenRefresh": 3600,
+      "MaxSecondsBetweenRefresh": 7200,
+      "Enabled": true,
+      "AllowSkinnedItems": true,
+      "LootMultiplier": 1.0,
+      "MinScrapAmount": 0,
+      "MaxScrapAmount": 0
+    }
+  },
+  "npcs_advanced": {},
+  "npcs_simple": {},
+  "IsBaseLootTable": false,
+  "ProfileName": "heli_crate"
+}
